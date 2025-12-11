@@ -8,6 +8,7 @@ This repo is just a safe sandbox to demonstrate that feature.
 Turn it on:
 
 1️⃣ Settings → Emails
+
 2️⃣ Enable Block command line pushes that expose my email
 
 Stay safe :)
